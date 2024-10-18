@@ -80,3 +80,4 @@ Probability: 0.87
 ```
 
 The processed image will have bounding boxes and labels drawn around the detected objects.
+   
